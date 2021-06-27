@@ -22,7 +22,8 @@ This revenue can be paid to the shareholders as a dividend or be reinvested for 
 An additional benefit for participants would be the possiblity to be a beta-tester in the applications that will be created.
   
 For expample, if a company tried to predict the occcurance of a special disease based on lifestyle and genetic predisposition, 
-you'd be able to see the preliminary result and your personal risk of getting sick, years before the research has been peer-reviewed, approved, commercialised and made publicly available. Wouldn't that be amazing ?
+you'd be able to see the preliminary result and your personal risk of getting sick, years before the research has been peer-reviewed, approved, commercialised and made publicly available. 
+Wouldn't that be amazing ?
 
 
 
