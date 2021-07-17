@@ -26,6 +26,8 @@ you'd be able to see the preliminary result and your personal risk of getting si
     
 Wouldn't that be amazing ?
 
+### 
+Still looking for Teammembers/Investors. Project starting soon.
 
 
 
