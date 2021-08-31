@@ -24,10 +24,7 @@ An additional benefit for participants would be the possiblity to be a beta-test
 For expample, if a company tried to predict the occcurance of a disease based on lifestyle and genetic predisposition, 
 you'd be able to see the preliminary result and your personal risk of getting sick, years before the research has been peer-reviewed, approved, commercialised and made publicly available. <br /> 
     
-Wouldn't that be amazing ?
-
-## Progress
-Project starting soon. Still looking for Teammembers/Investors. 
+## Status: On Hold
 
 
 
